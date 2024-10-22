@@ -1,10 +1,10 @@
-Ethan Ward - Web Developer from New York
+Sarah Migada operator from Kenya
 
 
 
 #---------- HEADER ----------#
 
-Ethan Ward
+Sarah Migada
 
 aria-label = Toggle Menu
 
@@ -24,7 +24,7 @@ Download CV
 
 #---------- HERO ----------#
 
-alt = Ethan's Photo
+alt = Sarah's Photo
 
 12
 Years of Success
@@ -38,7 +38,7 @@ alt = I'm developer from New York
 
 Hello I'm
 
-Ethan Ward
+Sarah Migada
 
 Web Developer from New York
 
