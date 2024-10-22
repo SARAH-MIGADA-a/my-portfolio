@@ -1,54 +1,56 @@
-<div align="center">
-  
-  ![GitHub repo size](https://img.shields.io/github/repo-size/codewithsadee/portfolio)
-  ![GitHub stars](https://img.shields.io/github/stars/codewithsadee/portfolio?style=social)
-  ![GitHub forks](https://img.shields.io/github/forks/codewithsadee/portfolio?style=social)
-[![Twitter Follow](https://img.shields.io/twitter/follow/codewithsadee_?style=social)](https://twitter.com/intent/follow?screen_name=codewithsadee_)
-  [![YouTube Video Views](https://img.shields.io/youtube/views/SAu7e09vXoQ?style=social)](https://youtu.be/SAu7e09vXoQ)
 
-  <br />
-  <br />
 
-  <h2 align="center">Personal Portfolio Website</h2>
+Sarah Migada - Personal Developer Portfolio
 
-  Fully responsive personal portfolio website, <br />Responsive for all devices, built using HTML, CSS, and JavaScript.
+Welcome to my personal website portfolio! This portfolio is a showcase of my work as a developer, focusing on web and mobile app development, UI/UX design, and my journey in tech.
 
-  <a href="https://codewithsadee.github.io/portfolio/"><strong>➥ Live Demo</strong></a>
+ About the Portfolio
 
-</div>
+This website highlights the projects I’ve worked on, the skills I’ve developed, and the tools I’ve mastered throughout my career. It serves as both a professional profile and a visual display of the work I’m passionate about.
 
-<br />
+ Features
 
-### Demo Screeshots
+- Homepage: A brief introduction to who I am and what I do.
+- Projects: A showcase of selected projects that demonstrate my development skills, with descriptions and links to live demos or repositories.
+- Skills: A list of technologies and tools I am proficient in.
+- Contact: Links to get in touch with me for collaboration or opportunities.
 
-![Portfolio Desktop Demo](./readme-images/desktop.png "Desktop Demo")
+ Technologies Used
 
-### Prerequisites
+This portfolio was built using:
 
-Before you begin, ensure you have met the following requirements:
+- HTML5: Structuring the content.
+- CSS3: Styling and layout of the pages.
+- JavaScript: Adding interactive features.
+- Git & GitHub: For version control and project hosting.
 
-* [Git](https://git-scm.com/downloads "Download Git") must be installed on your operating system.
+How to View the Website
 
-### Run Locally
+To explore the portfolio:
 
-To run **Portfolio** locally, run this command on your git bash:
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/SARAH-MIGADA-a/my-portfolio.git
+   ```
 
-Linux and macOS:
+2. Navigate to the project directory:
+   ```bash
+   cd my-portfolio
+   ```
 
-```bash
-sudo git clone https://github.com/codewithsadee/portfolio.git
-```
+3. Open `index.html` in a web browser to view the portfolio locally, or visit the live site via GitHub Pages.
 
-Windows:
+ Customization
 
-```bash
-git clone https://github.com/codewithsadee/portfolio.git
-```
+This project can easily be customized to match your own profile. Feel free to fork this repository, replace the placeholder content with your own information, and adjust the styles to reflect your personal brand.
 
-### Contact
+ Live Demo
 
-If you want to contact with me you can reach me at [Twitter](https://www.twitter.com/codewithsadee).
+Check out the live version of my portfolio here: [Sarah Migada's Portfolio](https://SARAH-MIGADA-a.github.io/my-portfolio)
 
-### License
+ Contact
 
-This project is **free to use** and does not contains any license.
+If you’re interested in collaborating or would like to discuss my work, feel free to contact me via:
+
+- Email: sarahmigada@gmail.com
+- GitHub: [Sarah Migada](https://github.com/SARAH-MIGADA-a)
